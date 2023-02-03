@@ -3,3 +3,5 @@
 Lab 1 - Board Game Collection Anaylyzer
 
 Lab 2 - Process Simulator
+
+Lab 3 - CPU Scheduler
